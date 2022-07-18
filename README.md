@@ -25,3 +25,7 @@
   
 
 ![Snake animation](https://github.com/LeonardoGSilvaa/LeonardoGSilvaa/blob/output/github-contribution-grid-snake.svg)
+
+
+
+*"Lealdade é uma rua de mão dupla, se estou pedindo a sua, você terá a minha!"* -Harvey Specter
