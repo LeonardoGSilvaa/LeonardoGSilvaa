@@ -1,3 +1,4 @@
+# Olá a todos! Me chamo Leonardo Gonçalves
 
 - 🤔 Atualmente trabalho como Consultor de Relacionamento
 - 🎓 2º Semestre de Análise e Desenvolvimento de Sistemas
